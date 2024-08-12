@@ -126,5 +126,3 @@ Onece upon a time !
 
 – Не – каза котето – не съм убеден. Търсих ги, търсих ги и почти ги намерих, но едно куче ме подгони.
 To test Git GUI!
-
-Update chapter 1 just for the test!
